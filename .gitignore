@@ -1,0 +1,15 @@
+players/*
+worlds/*
+plugins/*
+bin/*
+timings/*
+*.log
+*.phar
+server.properties
+pocketmine.yml
+*.txt
+teamcore.yml
+crashdumps/*
+resource_packs/*
+
+.idea/
