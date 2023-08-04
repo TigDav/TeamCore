@@ -53,8 +53,7 @@ ___
     - Including the bug with transparent and black skins.
 - Timing functionality has been fixed. To identify plugins that exert the most load on the server, you can record and
   analyze them.
-    - If you need to save the timings file in a custom file, use the command `/timings paste` with the
-      code `pocketmine\event\TimingsHandler::printTimings(fopen("PATH/TO/TIMINGS/FILE_NAME.txt", "a+b"));`
+   - If you need to save timings to a custom file, use `pocketmine\event\TimingsHandler::printTimings(fopen("PATH/TO/TIMINGS/FILE_NAME.txt", "a+b"));` instead of `timings paste`.
 
 #### Only some of the features of this core are listed here. The remaining ones can be reviewed in the code, accompanied by comments added for convenience in certain locations.
 
@@ -108,8 +107,7 @@ ___
     - В том числе баг с прозрачными и черными скинами.
 - Исправлена работа таймингов. Для выявления плагинов, которые больше всего нагружают сервер, Вы можете их записывать и
   анализировать.
-    - Если Вам потребуется сохранить файл с таймингами в произвольном файле, используйте вместо команды `/timings paste`
-      код `pocketmine\event\TimingsHandler::printTimings(fopen("PATH/TO/TIMINGS/FILE_NAME.txt", "a+b"));`
+    - Если Вам потребуется сохранить файл с таймингами в произвольном файле, используйте `pocketmine\event\TimingsHandler::printTimings(fopen("PATH/TO/TIMINGS/FILE_NAME.txt", "a+b"));` вместо команды `/timings paste`.
 
 #### Тут перечислена лишь часть особенностей данного ядра. С остальными Вы можете ознакомиться в коде, для удобства в некоторых местах добавлены комментарии.
 
