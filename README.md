@@ -16,7 +16,7 @@ ___
 ### Introduction
 
 ___
-__TeamCore is a heavily modified fork of [GenisysPro](https://github.com/GenisysPro/GenisysPro), serving as advanced
+__TeamCore is a heavily modified fork of <a href="https://github.com/GenisysPro/GenisysPro" target="_blank">GenisysPro</a>, serving as advanced
 server software designed for Minecraft Pocket Edition and Minecraft Windows 10 Edition. It encompasses a wide array of
 changes, addressing everything from bug fixes to fortified security measures and optimized performance improvements.__
 The development of TeamCore was completed back in 2019.
@@ -57,11 +57,11 @@ ___
 
 ___
 
-You can also explore the project [TeamKind](https://tigdav.ru/project/?name=TeamKind) where this core was utilized to
+You can also explore the project <a href="https://tigdav.ru/project/?name=TeamKind" target="_blank">TeamKind</a> where this core was utilized to
 draw conclusions about the capabilities it provides. _(Information is available only in Russian)_
 ___
 ### Installation
-1. Download PHP binaries version `^7.4` from the [official website](https://www.php.net/releases/) based on your operating system.
+1. Download PHP binaries version `^7.4` from the <a href="https://www.php.net/releases/" target="_blank">official website</a> based on your operating system.
 2. Download the core and the necessary startup script from this repository (`start.sh` for Linux, `start.cmd` for Windows).
 3. Ensure that the core, startup script, and binaries are located in the same directory.
 4. Grant execute permissions to the `start` script and any files specified by the script if needed.
@@ -73,7 +73,7 @@ ___
 ### Введение
 
 ___
-__TeamCore - это почти полностью модифицированный форк [GenisysPro](https://github.com/GenisysPro/GenisysPro),
+__TeamCore - это почти полностью модифицированный форк <a href="https://github.com/GenisysPro/GenisysPro" target="_blank">GenisysPro</a>,
 представляющий собой продвинутое серверное программное обеспечение, разработанное для Minecraft Pocket Edition и
 Minecraft Windows 10 Edition. Оно охватывает широкий спектр изменений, включая исправление ошибок, усиление мер
 безопасности и оптимизацию производительности.__
@@ -116,12 +116,12 @@ ___
 
 ___
 
-Также Вы можете ознакомиться с проектом серверов [TeamKind](https://tigdav.ru/project/?name=TeamKind), где
+Также Вы можете ознакомиться с проектом серверов <a href="https://tigdav.ru/project/?name=TeamKind" target="_blank">TeamKind</a>, где
 использовалось это ядро, чтобы сделать выводы о тех возможностях, которые он предоставляет.
 
 ___
 ### Установка
-1. Скачайте бинарники PHP версии `^7.4` из [официального сайта](https://www.php.net/releases/) в зависимости от Вашей ОС.
+1. Скачайте бинарники PHP версии `^7.4` из <a href="https://www.php.net/releases/" target="_blank">официального сайта</a> в зависимости от Вашей ОС.
 2. Загрузите ядро и нужный скрипт запуска из данного репозитория (`start.sh` для Linux, `start.cmd` для Windows).
 3. Убедитесь, что ядро, скрипт запуска и бинарники находятся в одной директории.
 4. Выдайте права на запуска скрипта `start` и файлов, на которые укажет скрипт, если это потребуется.
